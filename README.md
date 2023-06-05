@@ -1,5 +1,5 @@
 - Hi, I’m Navdeep
-- I’m 20 years old or young :)
+- I’m 21 years old or young :)
 - I am Pursuing BSc Programming and Data science, IIT Madras and BTech Information Technology, GJU Hisar
 - I’m currently learning Python,C++,JAVA,DSA
 - I would love to work on projects in python,c,soon java.
