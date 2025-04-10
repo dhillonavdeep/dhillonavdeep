@@ -49,7 +49,8 @@
 - 🎵 [**Music Application**](https://github.com/dhillonavdeep/music-application): Full-stack music app with Flask + Vue.js, task scheduling with Celery, Redis caching, email alerts.
 - 🎙️ [**VoiceBot**](https://github.com/dhillonavdeep/VoiceBot): Voice-activated Q&A system using Hugging Face QA model, speech recognition, and text-to-speech.
 - 🧠 [**Seek Portal**](https://github.com/dhillonavdeep/soft-engg-project-may-2024-se-may-Team_8): Gen AI-enabled educational portal using Gemma 2B for interactive feedback and assignment support.
-- 🎬 **Movie Sentiment Prediction**: Sentiment analysis using NLP, Scikit-learn pipelines, and word embeddings for better classification accuracy.
+- 🎬 [**Movie Sentiment Prediction**](https://github.com/dhillonavdeep/sentimentprediction): Sentiment analysis app using Scikit-learn, NLP techniques like TF-IDF, and feature engineering with ML pipelines.
+- 🛒 [**Grocery Store Management System**](https://github.com/dhillonavdeep/grocery_store): Console-based Python project for sales, inventory, and billing operations. Demonstrates file handling and structured logic.
 - 🧾 **Ticket Booking & Inventory System**: Console-based apps for booking and sales tracking.
 
 ---
